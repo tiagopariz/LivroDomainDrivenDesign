@@ -1,0 +1,10 @@
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\bin\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.deps.json
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\bin\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.runtimeconfig.json
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\bin\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.runtimeconfig.dev.json
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\bin\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.dll
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\bin\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.pdb
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\obj\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.csproj.CoreCompileInputs.cache
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\obj\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.AssemblyInfoInputs.cache
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\obj\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.AssemblyInfo.cs
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\obj\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.dll
+C:\GitHub\LivroDomainDrivenDesign\ExtraindoUmConceitoOculto\obj\Debug\netcoreapp2.0\ExtraindoUmConceitoOculto.pdb

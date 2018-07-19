@@ -1,0 +1,10 @@
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\obj\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\obj\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.AssemblyInfoInputs.cache
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\obj\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.AssemblyInfo.cs
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\bin\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.deps.json
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\bin\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.dll
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\bin\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.pdb
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\bin\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Domain.dll
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\bin\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Domain.pdb
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\obj\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.dll
+C:\GitHub\LivroDomainDrivenDesign\UmDesignDirigidoPorModelos\UmDesignDirigidoPorModelos.Data\obj\Debug\netstandard2.0\UmDesignDirigidoPorModelos.Data.pdb

@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "UmDesignDirigidoPorModelos.Prompt/1.0.0": {
+        "dependencies": {
+          "UmDesignDirigidoPorModelos.AppService": "1.0.0",
+          "UmDesignDirigidoPorModelos.Data": "1.0.0",
+          "UmDesignDirigidoPorModelos.Utils": "1.0.0"
+        },
+        "runtime": {
+          "UmDesignDirigidoPorModelos.Prompt.dll": {}
+        }
+      },
+      "UmDesignDirigidoPorModelos.AppService/1.0.0": {
+        "dependencies": {
+          "UmDesignDirigidoPorModelos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UmDesignDirigidoPorModelos.AppService.dll": {}
+        }
+      },
+      "UmDesignDirigidoPorModelos.Data/1.0.0": {
+        "dependencies": {
+          "UmDesignDirigidoPorModelos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UmDesignDirigidoPorModelos.Data.dll": {}
+        }
+      },
+      "UmDesignDirigidoPorModelos.Domain/1.0.0": {
+        "runtime": {
+          "UmDesignDirigidoPorModelos.Domain.dll": {}
+        }
+      },
+      "UmDesignDirigidoPorModelos.Utils/1.0.0": {
+        "dependencies": {
+          "UmDesignDirigidoPorModelos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UmDesignDirigidoPorModelos.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UmDesignDirigidoPorModelos.Prompt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UmDesignDirigidoPorModelos.AppService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UmDesignDirigidoPorModelos.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UmDesignDirigidoPorModelos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UmDesignDirigidoPorModelos.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
